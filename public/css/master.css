@@ -1,0 +1,24 @@
+
+
+
+/* PLUGIN CSS */
+
+@import url('../assets/product-plugins/yamm/yamm.css');                              /* responsive menu */
+@import url('../assets/product-plugins/slider-pro/dist/css/slider-pro.css');         /* main slider */
+@import url('../assets/product-plugins/owl-carousel/owl.carousel.css');              /* other sliders */
+@import url('../assets/product-plugins/owl-carousel/owl.transitions.css');           /* other sliders */
+@import url('../assets/product-plugins/owl-carousel/owl.theme.css');                 /* other sliders */
+@import url('../assets/product-plugins/prettyphoto/css/prettyPhoto.css');            /* modal */
+@import url('../assets/product-plugins/animate/animate.css');                        /* animations */
+@import url('../assets/product-plugins/validation/validation-2.2.min.css');          /* validation */
+@import url('../assets/product-plugins/magnific-popup/magnific-popup.css');          /* magnific */
+@import url('../assets/product-plugins/sweetalert/sweetalert.css');          /* sweetalert */
+
+
+
+/* MAIN CSS */
+@import url('../assets/product-css/preloader.css');
+@import url('../assets/product-css/theme.css');
+@import url('../assets/product-css/sidebar.css');
+@import url('../assets/product-css/blog.css');
+@import url('../assets/product-css/responsive.css');

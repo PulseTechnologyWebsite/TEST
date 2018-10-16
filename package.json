@@ -1,0 +1,33 @@
+{
+  "name": "pulse-technology",
+  "description": "Pulse Technology Corporate Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.5",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11"
+  },
+  "engines": {
+    "node": "v8.9.4",
+    "npm": "5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PulseTechnologyWebsite/Corporate2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PulseTechnologyWebsite/Corporate2/issues"
+  },
+  "homepage": "https://github.com/PulseTechnologyWebsite/Corporate2#readme",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "keywords": [
+    "[technology]"
+  ],
+  "author": "",
+  "license": "ISC"
+}
